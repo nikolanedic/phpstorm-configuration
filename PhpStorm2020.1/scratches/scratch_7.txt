@@ -1,0 +1,15 @@
+public function getProducts()
+{
+     // 1. vidi jel ima u kesu mozda to
+     if (Cache::has('products')) {
+        // 2. Ako ima vrati iz kesha
+        return repsonse(['products' => Cache::get('products')];
+     }
+
+    // 3. Ako nema uzmi iz baze, stavi u kesh za ubuduuce i vrati
+
+    $products = $productRepository->getAll();
+    Cache::set('products', $products)
+
+    return repsonse(['products' => $products->toArray()];
+}

@@ -1,0 +1,4 @@
+E drugari, dodao sam api endpointe za order checkout stranicu.
+
+Ideja je sledeca, sve
+

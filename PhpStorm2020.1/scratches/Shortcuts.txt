@@ -1,0 +1,6 @@
+ctrl alt shift insert - New scratch file
+ctrl alt shift z      - Show in project view
+ctrl w                - Close file
+ctrl alt shift l      - ReFormat code
+ctrl right click      - Go to type definition
+ctrl shift d          - Duplicate a linelet

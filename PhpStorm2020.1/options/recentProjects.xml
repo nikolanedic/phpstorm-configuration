@@ -1,0 +1,61 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/www/maatoo-control-app-v2">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1eRfZtCRJOHxhTj48X2U9jgfZBk">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-201.7846.90" />
+              <option name="buildTimestamp" value="1591180837386" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1594289384143" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/www/maatoo">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1eAbaYD6wfH2mh92ATlh2mUgrYb">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-201.7846.90" />
+              <option name="buildTimestamp" value="1591180837386" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1594371636956" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/www/marketplace">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1e2PI5dUqXDvLsOqfm36MxWtkbX">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-201.8538.41" />
+              <option name="buildTimestamp" value="1594204607192" />
+              <frame x="10" y="262" width="1910" height="785" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1594798377115" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/www/hc-revamp">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1eidWc2TjlZP2ZNygcwyDBC48Z7">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-201.8538.41" />
+              <option name="buildTimestamp" value="1594204607192" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1594808379505" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/www/hc-revamp" />
+        <option value="$USER_HOME$/www/marketplace" />
+        <option value="$USER_HOME$/www/maatoo" />
+        <option value="$USER_HOME$/www/maatoo-control-app-v2" />
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,1 @@
+app/Http/Requests/Cart/StoreCartItemRequest.php:27 - dodaj validaciju int, min (1) i max (10 npr)

@@ -1,0 +1,439 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Shortcuts.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/bundles/EmailBundle/Form/Type/EmailType.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="221" column="26" selection-start-line="221" selection-start-column="26" selection-end-line="221" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/bundles/EmailBundle/Views/Email/form.html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="91" column="35" lean-forward="true" selection-start-line="79" selection-start-column="20" selection-end-line="91" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/bundles/EmailBundle/Controller/PublicController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="144" column="21" selection-start-line="144" selection-start-column="21" selection-end-line="144" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/MauticSocialBundle/Form/Type/MonitoringType.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/bundles/CoreBundle/Form/EventListener/CleanFormSubscriber.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/BeeEditorBundle/Assets/js/beeplugin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="168" selection-start-line="168" selection-end-line="169" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/bundles/CoreBundle/Assets/js/4.builder.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="345" column="57" selection-start-line="345" selection-start-column="57" selection-end-line="345" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/bundles/CoreBundle/Form/Type/ThemeListType.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Grammar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2268">
+              <caret line="107" column="71" selection-start-line="107" selection-start-column="63" selection-end-line="107" selection-end-column="71" />
+              <caret line="114" column="67" selection-start-line="114" selection-start-column="59" selection-end-line="114" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>failContact</find>
+      <find>_assertValidAddress</find>
+      <find>addr-spec</find>
+      <find>Executing email.send ID 301</find>
+      <find>assertValid</find>
+      <find>addBcc</find>
+      <find>assert</find>
+      <find>codeMode</find>
+      <find>mautic_code_modemautic_code_mode</find>
+      <find>&lt;li id=&quot;dynamic-content-tab&quot; &lt;?php echo (!$isCodeMode) ? 'class=&quot;hidden&quot;' : ''; ?&gt;&gt;</find>
+      <find>template</find>
+      <find>$isCodeMode</find>
+      <find>isCodeMode</find>
+      <find>&lt;li id=&quot;dynamic-content-tab&quot; &lt;?php echo (!$isCodeMode) ? 'class=&quot;hidden&quot;' : ''; ?&gt;&gt;</find>
+      <find>CleanFormSubscriber</find>
+      <find>code_mode</find>
+      <find>code_modeemail</find>
+      <find>169</find>
+      <find>mautic_code_mode</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/app</dir>
+      <dir>$PROJECT_DIR$/</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/config/local.php" />
+        <option value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/Shortcuts.txt" />
+        <option value="$PROJECT_DIR$/app/bundles/EmailBundle/Views/Email/form.html.php" />
+        <option value="$PROJECT_DIR$/plugins/MauticSocialBundle/Form/Type/MonitoringType.php" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="maatoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maatoo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maatoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maatoo" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maatoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maatoo" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="bundles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maatoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maatoo" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="bundles" type="462c0819:PsiDirectoryNode" />
+              <item name="EmailBundle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maatoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maatoo" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="bundles" type="462c0819:PsiDirectoryNode" />
+              <item name="EmailBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maatoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maatoo" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="bundles" type="462c0819:PsiDirectoryNode" />
+              <item name="EmailBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
+              <item name="Type" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maatoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maatoo" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="bundles" type="462c0819:PsiDirectoryNode" />
+              <item name="EmailBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maatoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maatoo" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="bundles" type="462c0819:PsiDirectoryNode" />
+              <item name="EmailBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Views" type="462c0819:PsiDirectoryNode" />
+              <item name="Email" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maatoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maatoo" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maatoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maatoo" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maatoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="maatoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11701000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Commit" order="3" />
+      <window_info anchor="bottom" id="Services" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15921193" />
+      <window_info anchor="bottom" id="Flow" order="7" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" weight="0.32946146" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bundles/EmailBundle/Exception/FailedToSendToContactException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="13" column="55" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/logs/mautic_dev-2020-07-03.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="239" column="73" selection-start-line="239" selection-start-column="45" selection-end-line="239" selection-end-column="73" />
+          <caret line="319" column="73" selection-start-line="319" selection-start-column="45" selection-end-line="319" selection-end-column="73" />
+          <caret line="423" column="73" selection-start-line="423" selection-start-column="45" selection-end-line="423" selection-end-column="73" />
+          <caret line="532" column="73" selection-start-line="532" selection-start-column="45" selection-end-line="532" selection-end-column="73" />
+          <caret line="641" column="73" selection-start-line="641" selection-start-column="45" selection-end-line="641" selection-end-column="73" />
+          <caret line="750" column="73" selection-start-line="750" selection-start-column="45" selection-end-line="750" selection-end-column="73" />
+          <caret line="859" column="73" selection-start-line="859" selection-start-column="45" selection-end-line="859" selection-end-column="73" />
+          <caret line="968" column="73" selection-start-line="968" selection-start-column="45" selection-end-line="968" selection-end-column="73" />
+          <caret line="1077" column="73" selection-start-line="1077" selection-start-column="45" selection-end-line="1077" selection-end-column="73" />
+          <caret line="1214" column="73" selection-start-line="1214" selection-start-column="45" selection-end-line="1214" selection-end-column="73" />
+          <caret line="1223" column="73" selection-start-line="1223" selection-start-column="45" selection-end-line="1223" selection-end-column="73" />
+          <caret line="1232" column="73" selection-start-line="1232" selection-start-column="45" selection-end-line="1232" selection-end-column="73" />
+          <caret line="1241" column="73" selection-start-line="1241" selection-start-column="45" selection-end-line="1241" selection-end-column="73" />
+          <caret line="1250" column="73" selection-start-line="1250" selection-start-column="45" selection-end-line="1250" selection-end-column="73" />
+          <caret line="1259" column="73" selection-start-line="1259" selection-start-column="45" selection-end-line="1259" selection-end-column="73" />
+          <caret line="1268" column="73" selection-start-line="1268" selection-start-column="45" selection-end-line="1268" selection-end-column="73" />
+          <caret line="1277" column="73" selection-start-line="1277" selection-start-column="45" selection-end-line="1277" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bundles/EmailBundle/Model/SendEmailToContact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3465">
+          <caret line="172" column="25" selection-start-line="172" selection-start-column="21" selection-end-line="172" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bundles/EmailBundle/Model/EmailModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31332">
+          <caret line="1499" column="22" selection-start-line="1499" selection-start-column="22" selection-end-line="1499" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/logs/dev-2020-07-03.php">
+      <provider selected="true" editor-type-id="LargeFileEditorProvider">
+        <state caret-page-number="239" caret-page-symbol-offset="4421" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2079">
+          <caret line="247" column="41" selection-start-line="247" selection-start-column="23" selection-end-line="247" selection-end-column="41" />
+          <caret line="105" column="53" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bundles/EmailBundle/Helper/MailHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29127">
+          <caret line="1394" column="72" selection-start-line="1394" selection-start-column="72" selection-end-line="1394" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/SimpleMessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8799">
+          <caret line="411" column="28" selection-start-line="411" selection-start-column="22" selection-end-line="411" selection-end-column="28" />
+          <caret line="425" column="26" selection-start-line="425" selection-start-column="20" selection-end-line="425" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Grammar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2268">
+          <caret line="107" column="71" selection-start-line="107" selection-start-column="63" selection-end-line="107" selection-end-column="71" />
+          <caret line="114" column="67" selection-start-line="114" selection-start-column="59" selection-end-line="114" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bundles/CoreBundle/Assets/js/4.builder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="345" column="57" selection-start-line="345" selection-start-column="57" selection-end-line="345" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bundles/CoreBundle/Form/Type/ThemeListType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bundles/EmailBundle/Form/Type/EmailType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="221" column="26" selection-start-line="221" selection-start-column="26" selection-end-line="221" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/MauticSocialBundle/Form/Type/MonitoringType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bundles/CoreBundle/Form/EventListener/CleanFormSubscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/BeeEditorBundle/Assets/js/beeplugin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="168" selection-start-line="168" selection-end-line="169" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Shortcuts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bundles/EmailBundle/Views/Email/form.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="91" column="35" lean-forward="true" selection-start-line="79" selection-start-column="20" selection-end-line="91" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bundles/EmailBundle/Controller/PublicController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="144" column="21" selection-start-line="144" selection-start-column="21" selection-end-line="144" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,1000 @@
+git status
+gitk --all&
+git rebase -i feature/GG-16-View-objects-on-category-page 
+git status
+rm composer.lock 
+git git status
+git status
+git add --all
+git rebase --continue
+git status
+git branch
+rm composer.json 
+git status
+rm composer.lock 
+git status
+git add --all
+git rebase --continue
+git status
+git add --all
+git rebase --continue
+git status
+gitk --all
+git push
+git push -f
+git status
+git branch
+git status
+git branch
+git push
+git reset --hard
+git stauts
+git status
+git push
+git status
+git checkout feature/GG-16-View-objects-on-category-page 
+git status
+git fetch
+git status
+git pull
+git status
+git reset --hard
+git status
+rm app/Exceptions/Api/ApiException.php 
+git status
+cd ..
+chown -R nijah:nijah marketplace
+sudo chown -R nijah:nijah marketplace
+cd marketplace/
+git status
+git pull
+git status
+git branch
+git checkout feature/GG-45/integrate-socialite-on-azure 
+git rebase -p feature/GG-16-View-objects-on-category-page 
+git status
+gitk --all
+git status
+php artisan scribe:generate
+cd www/marketplace/
+ll
+docker-compose up -d
+subl
+git status
+gitk --all
+git status
+gitk --all
+git status
+git staus
+git status
+gitk --all
+cd ..
+cp -rf marketplace/ marketplace-bk
+ll
+cd marketplace
+git checkout feature/GG-16-View-objects-on-category-page 
+git checkout feature/GG-45/integrate-socialite-on-azure 
+git status
+git branch
+gitk --all
+git status
+git branch
+git status
+git branch
+gitk --all
+git rebase -p feature/GG-16-View-objects-on-category-page 
+git status
+docker-compose exec app /bin/bash
+git rebase -p feature/GG-16-View-objects-on-category-page 
+rm composer.lock 
+git status
+composer install
+git rebase --abort
+git rebase -p feature/GG-16-View-objects-on-category-page 
+git status
+docker-compose exec app /bin/bash
+cd ..
+cd marketplace/
+ll
+docker-compose exec app  /bin/bash
+gitk --all
+git checkout feature/GG-48/expose-user-service 
+git push
+git checkout feature/poc-wireframes 
+cd www/marketplace/
+git status
+subl .
+git status
+git add --all
+git commit -m"Add default value for a password field"
+docker-compose up -d
+git status
+git push 
+git fetch --prune
+git status
+git rebase -p origin/feature/GG-45/integrate-socialite-on-azure 
+git status
+git rebase --abort
+git status
+gitk --al
+gitk --all
+git push -f
+gitk --all
+cd ..
+cd maatoo
+git checkout master 
+git status
+docker-compose up -d
+symfony serve -d
+symfony serve
+symfony server:stop
+sudo symfony server:stop
+symfony serve -d
+bin/robo.phar init
+app/console m:r:p
+app/console --env=dev m:r:p
+bin/robo.phar init
+app/console --env=dev m:r:p
+bin/robo.phar init
+subl .
+bin/robo.phar init
+app/console --env=dev m:r:p
+app/console --env=dev m:p:i
+git status
+git reset --hard
+git fetch --prune
+git branch -D feature/MA-411/beeeditor-autosave 
+git status
+git pull
+git status
+app/console --env:dev 
+app/console --env=dev
+app/console --env=dev doctrine:migrations:migrate
+gitk --all
+app/console --env=dev cache:clear
+git checkout bugfix/>MA-690
+git checkout bugfix/MA-690/creating-new-email-from-template-fix
+git stauts
+git checkout -b bugfix/MA-690/creating-new-email-from-template-fix
+git status
+rm MA-690 
+git status
+git branch
+app/console --env=dev
+app/console --env=dev   mautic:assets:generate
+git push
+cd ..
+cd marketplace/
+git stauts
+gitk --all
+git checkout -b feature/GG-48/expose-user-service
+gitk --all
+subl .
+docker-compose exec app /bin/bash
+cd ..
+cd maatoo
+app/console --env=dev m:r:p
+app/console --env=dev maatoo:assets:generate
+app/console --env=dev mautic:assets:generate
+gitk --all
+app/console --env=dev mautic:assets:generate
+git stauts
+git status
+cd ..
+cd marketplace/
+git status
+git push
+gitk --all
+git checkout feature/poc-wireframes
+git checkout -b feature/poc-wireframes
+yarn watch
+yarn
+sudo apt install yarn
+yarn wathc
+yarn watch
+sudo apt update && sudo apt install yarn
+yarn --help
+npm run watch
+cd ~/Downloads/
+sudo apt install ./zoom_amd64.deb
+SUBL .
+subl .
+cd www/marketplace/
+git status
+docker-compose up -d
+yarn run watch
+npm run watch
+git stauts
+git status
+git push
+gitk --all
+git push
+git checkout -b feature/poc-backlight-hdri
+git status
+git checkout -b feature/poc-background-solid
+git status
+git checkout feature/poc-wireframes 
+git push
+git checkout feature/poc-backlight-hdri 
+git push
+git checkout feature/poc-background-solid 
+git push
+gitk --all
+git checkout feature/poc-rigging-explorer
+git status
+git checkout -b feature/poc-rigging-explorer
+npm cache clear
+gitk --all
+git checkout feature/poc-background-solid 
+git push
+git checkout feature/poc-rigging-explorer 
+gitk --all
+npm install @babylonjs/gui --save-dev
+docker ps
+git stauts
+cd www/
+git clone git@github.com:KhronosGroup/glTF-Sample-Models.git
+cd marketplace/
+subl .
+git status
+git branch
+docker ps
+docker-compose up -d
+yarn run watch
+npr run watch
+npm run watch
+npr run watch
+npm run watch
+git status
+npm run watch
+ll
+rm -rf node_modules/
+npm run watch
+npm install
+npm run watch
+docker system prine
+docker system prune
+npm run watch
+echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+npm run watch
+git stauts
+git status
+git stash
+git status
+gitk --all
+gitk --all&
+git fetch --prune
+git status
+git checkout develop 
+git status
+git pull
+git status
+git reset --har
+docker-compose exec app /bin/bash
+git status
+git pull
+git status
+git reset --hard
+git stauts
+git status
+git reset --hard
+git status
+git reset --hard
+git status
+sudo git pull
+git pull
+git status
+docker-compose exec app /bin/bash
+cd ..
+chown -R nijah:nijah marketplace/
+sudo chown -R nijah:nijah marketplace/
+cd marketplace/
+git status
+git pull
+git status
+gitk --all
+git checkout feature/poc-rigging-explorer 
+npm clear cache
+npm cache clear
+npm cache clear --force
+npm run watch
+git push 
+subl .
+gitk --all
+git checkout -b feature/poc-roughness-metallicness
+git status
+git reset --hard
+gitk --all
+git checkout feature/poc-wireframes 
+git checkout feature/poc-roughness-metallicness 
+gitk --all
+cd www/marketplace/
+docker-compose up -d
+npm run watch
+docker-compose exec app /bin/console
+docker ps
+docker-compose exec app /bin/bash
+git status
+git push
+git status
+gitk --all
+gitk --all&
+git reset --hard 8900b5ca56c1288124d51f3d1c16545a01f1986b
+git push
+git checkout develop 
+git fetch
+git status
+git pull
+gitk --all
+git checkout poc/x-ray 
+npm run watch
+git status
+gitk --all
+git rebase -i feature/poc-roughness-metallicness 
+git status
+git add --all
+git rebase --continue
+npm run watch
+gitk --all
+git status
+git add --all
+git commit -m"temp changes"
+git checkout feature/poc-wireframes 
+git checkout poc/x-ray 
+git status
+git add --all
+git commit -m"Fix wireframe material application"
+git checkout poc/x-ray 
+git checkout feature/poc-backlight-hdri 
+git checkout feature/poc-background-solid 
+git stauts
+git status
+git reset --hard
+git checkout feature/poc-rigging-explorer 
+git status
+git checkout feature/poc-roughness-metallicness 
+git checkout poc/x-ray 
+sudo apt install ~/Downloads/teams_1.3.00.5153_amd64.deb 
+git checkout feature/poc-wireframes 
+git status
+git reset --hard
+git checkout feature/poc-backlight-hdri 
+git checkout feature/poc-background-solid 
+git status
+git reset --hard
+git checkout feature/poc-rigging-explorer 
+git status
+git checkout feature/poc-roughness-metallicness 
+git status
+gitk --all
+cd www/marketplace/
+docker-compose up -d
+cd www/marketplace/
+git status
+node rin watch
+node run watch
+npm run watch
+subl .
+git reset --hard
+git checkout feature/poc-wireframes 
+git status
+git branch
+git status
+git checkout feature/TAST-611/student-progress
+git status
+cd ..
+cd tastaturschreiben/
+git checkout -b feature/TAST-611/student-progress
+git status
+git push
+gitk --all
+git status
+git add --all
+git commit -m'Update tests to make sure new fields are there and contain right value'
+git status
+git push
+cd ..
+cd tastaturschreiben/
+git stauts
+gitk --all
+git checkout develop
+git fetch --prune
+git status
+git branch
+git pull
+git status
+gitk --all
+git branch -D feature/symfony-4 
+git branch -D feature/TAST-606/pupils-reports 
+git status
+gitk --all
+docker-compose up -d
+docker network create skv-network
+docker-compose up -d
+docker ps
+docker-compose exec php /bin/bash
+ng serve
+nvm --help
+nvm use v10.19.0 
+ng serve
+cd frontend/
+ng serve
+cd ..
+git@github.com:BabylonJS/Babylon.js.git
+git clone git@github.com:BabylonJS/Babylon.js.git
+subl .
+cdcd Babylon.js/
+cd Babylon.js/
+subl .
+cd ..
+cd marketplace/
+git status
+git reset --hard
+git status
+git checkout feature/poc-background-solid 
+subl .
+git status
+git reset --hard
+git status
+git checkout feature/poc-wireframes 
+git status
+subl .
+git status
+git reset --hard
+git status
+git checkout feature/texture-channels 
+git status
+git reset --hard
+git stauts
+git status
+git checkout feature/poc-background-solid 
+git status
+git checkout feature/poc-roughness-metallicness 
+git reset --hard
+git stauts
+git status
+git reset --hard
+git checkout feature/poc-wireframes 
+git status
+git reset --hard
+git checkout feature/texture-channels 
+git status
+cd www/marketplace/
+docker ps
+npm run watch
+git staus
+git status
+git branch
+git add --all
+git commit -m"Add wireframe as overlay"
+git push
+git status
+gitk --all
+git checkout feature/poc-texture-channels
+git status
+git checkout -b feature/texture-channels
+git status
+npm run watch
+subl .
+cd www/marketplace/
+git status
+nprm run watch
+npm run watch
+git status
+npm run watch
+docker-compose up -d
+cd ..
+cd Babylon.js/inspector/
+subl .
+cd ..
+cd Babylon.js/
+subl .
+pip install jsbeautifier
+npm -g install js-beautify
+cd ~/Desktop/
+cd ..
+js-beautify viewer.js 
+js-beautify viewer.js >>> viewer.js 
+js-beautify viewer.js > viewer.js 
+js-beautify viewer.js | viewer.js 
+js-beautify viewer.js 
+js-beautify viewer.js > cleanview.js
+subl cleanview.js 
+cd www/marketplace/
+npm run watch
+cd www/maatoo
+git status
+git reset --hard
+subl .
+docker-compose up -d
+symfony serve -d
+app/console m:r:p
+git status
+git status\
+git status
+git branch
+git status
+git branch
+git status
+git checkout develop 
+git status
+git statsh
+git stash
+git status
+git checkout develop 
+git pull
+git checkout master 
+git fetch
+git status
+git pull
+git status
+gitk --all
+git stash apply
+git commit -m"Fix email creating after template editing MA-699"
+git status
+git add --all
+git commit -m"Fix email creating after template editing MA-699"
+git push
+app/console m:r:p
+git status
+git add --all
+git commit -m"Fix email template edit cancel scenario MA-699"
+git push
+sudo apt install webkithtml2pdf
+sudo apt cache 
+sudo apt install wkhtmltopdf
+cd ~/Downloads/
+wkhtmltopdf assignment.html 
+wkhtmltopdf assignment.html assignment.pdf
+wkhtmltopdf task.html 
+wkhtmltopdf task.html task.pdf
+cd www/made4you/
+subl .
+cd ..
+cd marketplace/
+git status
+git reset --hard
+git status
+git checkout master 
+git fetch --prune
+git statua
+git status
+rm .phpunit.result.cache 
+git status
+git pull
+docker-compose up -d
+ll
+npm run watch-poll
+subl .
+npm run watch
+npm install
+npm run watch
+npm install
+npm run watch
+gitk --all
+git status
+git reset --hard
+git status
+git checkout develop 
+git status
+git fetch
+git status
+git pull
+git status
+git pull
+git status
+gitk --all
+git status
+docker ps
+docker-compose exec app /bin/bash
+subl .
+git status
+git reset --hard
+git status
+git push
+git checkout develop 
+git fetch
+git status
+git pull
+git checkout feature/GG-101-add-uuids 
+git rebase -p develop 
+git push
+gitk --all
+git push
+git status
+gitk --all
+docker ps
+git push
+gitk --all
+git status
+git checkout develop 
+git status
+git fetch --prune
+git status
+gitk --all
+git checkout feature/GG-102-edit-profile-avatar-image
+git checkout -b feature/GG-102-edit-profile-avatar-image
+git status
+git branch
+composer install
+gitk --all
+sudo chown -R nijah:nijah *
+git status
+git add --all\
+git add --all
+git rebase --continue
+git status
+git add --all
+git rebase --continue
+git status
+git add --all
+git rebase --continue
+git status
+npm run watch
+git status
+gitk --all
+git statu
+git checkout develop 
+git status
+git fetch --prune
+git status
+git pull
+git checkout feature/GG-102-edit-profile-avatar-image 
+git rebase -p develop 
+gitk --all
+git push
+git diff
+git add --all
+git commit -m"Lint code"
+git push
+git status
+git push
+git checkout develop 
+git status
+git fetch
+git status
+git pull
+git checkout feature/GG-102-edit-profile-avatar-image 
+git rebase -p develop 
+git stautus
+gitk --all
+git push
+git push -f
+gitk --al
+gitk --all
+git checkout develop 
+git fetch --prune
+git status
+git pull
+gitk --all
+git push origin :feature/GG-101-add-uuids 
+git branch -d feature/GG-101-add-uuids 
+git push origin :feature/GG-102-edit-profile-avatar-image 
+git branch -d feature/GG-102-edit-profile-avatar-image 
+gitk --all
+npm run watch
+git status
+git branch
+git checkout feature/GG-119-handle-header-image-upload
+git checkout -b feature/GG-119-handle-header-image-upload
+git status
+git checkout debv
+git checkout develop 
+git fetch
+git status
+git fetch
+git status
+git fetch
+git status
+gitk --all
+git fetch
+git status
+git pull
+gitk --all
+git checkout feature/GG-119-handle-header-image-upload 
+git rebase -p develop 
+git status
+git add --all
+git rebase --continue
+git status
+gitk --all
+git checkout develop 
+git fetch
+git checkout feature/GG-119-handle-header-image-upload 
+git push
+git checkout develop 
+git fetch
+git status
+git pull
+git branch -d feature/GG-119-handle-header-image-upload 
+git status
+gitk --all
+git push origin :feature/GG-119-handle-header-image-upload 
+git checkout -b feature/GG-113-user-profile-edit
+git status
+git checkout develop 
+git status
+git fetch
+git status
+git fetch
+git status
+git checkout feature/GG-113-user-profile-edit 
+git status
+git reset --hard
+git status
+giugit git status
+git checkout feature/GG-113-user-profile-edit 
+git status
+git reset --hard
+git status
+git reset --hard
+sudo chown -R nijah:nijah *
+git status
+git reset --hard
+git push
+gitk --all
+git checkout develop 
+git fetch --prune
+git status
+git pull
+git status
+git branch -d feature/GG-113-user-profile-edit 
+git push origin :feature/GG-113-user-profile-edit 
+gitk --all
+git checkout -b feature/fix-api-casing
+git status
+sudo chown -R nijah:nijah *
+git status
+git add --all
+git commit -m"Fix api casing, fix tests and regenerate api docs"
+sudo chown -R nijah:nijah *
+cd .git/objects/
+ll
+sudo chown -R nijah:nijah *
+cd ..
+git add --all
+git status
+git commit -m"Fix api casing, fix tests and regenerate api docs"
+git status
+git push
+gitk --all
+git checkout develop 
+git fetch
+git checkout feature/fix-api-casing 
+git status
+git push
+gitk --all
+git status
+git checkout develop 
+git fetch --prune
+git status
+git pull
+git branch -d feature/fix-api-casing 
+git push origin :feature/fix-api-casing 
+git status
+git checkout -b feature/GG-117/handle-user-links-be
+git status
+git push
+sudo chown -R nijah:nijah *
+git reset --hard
+git fetch
+git status
+git checkout feature/GG-117/handle-user-links-be 
+git fetch
+gitk --all
+git checkout feature/GG-93-UV-Textures 
+npr run watch
+npm run watch
+cd ~/Desktop/mICSTORAGE/
+ll
+./StorageExplorer
+sudo apt-get update;   sudo apt-get install -y apt-transport-https &&   sudo apt-get update &&   sudo apt-get install -y aspnetcore-runtime-2.1
+./StorageExplorer
+sudo snap install storage-explorer
+snap connect storage-explorer:password-manager-service :password-manager-service
+sudo snap connect storage-explorer:password-manager-service :password-manager-service
+git status
+git checkout feature/GG-75-base-color-specular-bg-color 
+git checkout develop 
+git status
+git fetch
+git status
+git pull
+git branch -d feature/GG-117/handle-user-links-be 
+git branch -d feature/GG-93-UV-Textures 
+git push origin :feature/GG-117/handle-user-links-be 
+git status
+npm run watch
+git checkout -b feature/add-new-3d-objects
+git statu
+git status
+git push
+npm install
+npm run watch
+cd ..
+cd maatoo-control-app-v2/
+lando start
+cd www/marketplace/
+git status
+subl .
+node thumbnail.js 
+node -v
+nvm use v10.19.0 
+node thumbnail.js 
+docker-compose up -d
+node thumbnail.js 
+docker pos
+docker ps
+ps aux | node
+ps aux | grep node
+ps aux | grep thumb
+kill -9 672824
+kill 6496
+kill 6374
+kill 6740
+kill 6975
+ps aux | grep thumb
+kill -9 6496
+kill -9 6374
+kill -9 6740
+kill -9 6975
+ps aux | grep thumb
+node thumbnail.js 
+git status
+git checkout develop 
+git status
+git fetch
+ps aux | grep thumb
+ps aux | grep node
+ps aux | grep thumbnail
+ps aux | grep chrome
+ps aux | grep pupp
+ps aux | grep pupp -f 2
+ps aux | grep pupp | -f 2
+ps aux | grep pupp |cut  -f 2
+ps aux | grep pupp |cut  -f 2 1
+ps aux | grep pupp |cut  -f 2/1
+ps aux | grep pupp |cut  -f 2
+ps aux | grep pupp |cut  -f --help
+ps aux | grep pupp |cut  --help
+ps aux | grep pupp |cut  -f 1
+ps aux | grep pupp |cut  -f 2
+ps aux | grep pupp |cut  -f 3
+pa aux | cut -f 2
+ps aux | cut -f 2
+ps aux | cut -f 1
+ps aux | cut -f 3
+ps aux | cut -f 22
+ps aux | cut 
+ps aux | cut -b2
+ps aux | cut --help
+docker-compose exec app /bin/bash
+credo armada wtf
+cd www/marketplace/
+git status
+git branch
+git status
+git tatus
+git status
+npm run watch
+nvm use v10.19.0 
+npm run watch
+git status
+git branch
+git status
+gitk --all
+cd www/maek
+cd www/marketplace/
+git checkout develop 
+git fetch
+git status
+git pull
+docker-compose up -d
+git stauts
+nvm use v10.19.0 
+npm run watch
+npm install
+npm run watch
+chmode -R nijah:nijah *
+sudo chown -R nijah:nijah *
+npm run watch
+npm install
+npm run watch
+cd ~/Downloads/
+ll
+sudo tar xvf PhpStorm-2018.3.tar.gz --directory /opt/
+sudo tar xvf PhpStorm-2020.1.2.tar.gz --directory /opt/
+/opt/Phpstorm-*/bin/phpstorm.sh
+/opt/PhpStorm-201.7846.90/bin/phpstorm.sh 
+sudo chown -R nijah:nijah *
+cd ..
+cd orahou/
+sudo chown -R nijah:nijah *
+ls
+ll
+sudo chown -R nijah:nijah *
+ll
+sudo chown -R nijah:nijah *
+chown
+sudo chown -R nijah:nijah *
+ll
+sudo chown -R nijah:nijah .env
+ll
+sudo chown -R nijah:nijah .
+ll
+sudo chown -R nijah:nijah ./*
+ll
+npm install
+npm run wathc
+npm run watch
+npm install
+npm run watch
+git status
+git branch
+git status
+git branch
+git status
+git add --all
+git commit -m"Add two new objects"
+git status
+git push
+cd ..
+mkdir orahou
+cd orahou/
+git status
+git clone git@github.com:laravel/laravel.git .
+subl .
+docker-compose up -d
+docker-compose down --rmi all
+docker-compose  up -d --build
+docker-compose up -d
+docker ps
+docker-compose down --rmi all
+docker-compose up -d --build
+docker ps
+docker-compose exec app /bin/bash
+cd www/mae
+cd www/marketplace/
+docker-compose up -d
+node thumbnail.js 
+npm install
+npm i -g puppeteer
+nvm use v10.19.0 
+node thumbnail.js 
+npm i -g puppeteer
+node thumbnail.js 
+npm intall
+npm install
+node thumbnail.js 
+subl .
+node thumbnail.js 
+sudo chown -R nijah:nijah *
+node thumbnail.js 
+ps aux | grep node
+ps aux | grep thumb
+kill -9 14405
+kill -9 14736
+kill -9 14906
+git status
+git reset --hard
+git stauts
+git status
+rm -rf public/thumbnails/
+git tatus
+git status
+rm public/3d_models/CoffeeMachine_Animated.glb 
+rm public/3d_models/HighHeel_left.glb 
+git checkout feature/add-new-3d-objects 
+docker-compose exec app /bin/bash
+ls
+docker ps
+docker-compose exec app /bin/bash
+ls
+cat .gitignore 
+caat .idea/
+cat .idea/
+npm i --save tailwindcss
+ks
+ls
+4444444222
+npm install

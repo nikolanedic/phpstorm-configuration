@@ -1,0 +1,17 @@
+AngularJS
+PerforceDirectPlugin
+Subversion
+com.intellij.php.phpt
+com.jetbrains.php.behat
+com.jetbrains.php.codeception
+com.jetbrains.php.drupal
+com.jetbrains.php.joomla
+com.jetbrains.php.wordPress
+com.jetbrains.plugins.asp
+gherkin
+hg4idea
+net.vektah.codeglance
+org.coffeescript
+org.jetbrains.plugins.haml
+org.jetbrains.plugins.less
+org.jetbrains.plugins.vagrant
